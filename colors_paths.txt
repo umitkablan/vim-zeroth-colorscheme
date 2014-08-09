@@ -1,0 +1,241 @@
+Mustang http://www.vim.org/scripts/download_script.php?src_id=11274
+Tomorrow-Night-Eighties https://github.com/chriskempson/tomorrow-theme/raw/master/vim/colors/Tomorrow-Night.vim
+abbott https://github.com/bcat/abbott.vim/raw/master/colors/abbott.vim
+adaryn https://github.com/vim-scripts/Adaryn.vim/raw/master/colors/adaryn.vim
+adrian http://vim.sourceforge.net/scripts/download_script.php?src_id=808
+aiseered http://www.vim.org/scripts/download_script.php?src_id=3794
+aldmeris https://github.com/veloce/vim-aldmeris/raw/master/colors/aldmeris.vim
+anokha https://github.com/vim-scripts/colorschemer/raw/master/colors/anokha.vim
+anotherdark http://www.vim.org/scripts/download_script.php?src_id=4449
+aqua https://github.com/vim-scripts/aqua/raw/master/colors/aqua.vim
+astroboy https://github.com/vim-scripts/colorschemer/raw/master/colors/astroboy.vim
+astronaut
+asu1dark http://www.vim.org/scripts/download_script.php?src_id=271
+autumn http://www.vim.org/scripts/download_script.php?src_id=2065
+autumn2 https://github.com/rodnaph/vim-color-schemes/raw/master/colors/autumn2.vim
+autumnleaf http://www.vim.org/scripts/download_script.php?src_id=3553
+ayumi https://github.com/lorry-lee/vim-ayumi/raw/master/color/ayumi.vim
+badwolf https://github.com/sjl/badwolf/raw/master/colors/badwolf.vim
+bandit
+baycomb http://www.vim.org/scripts/download_script.php?src_id=5795
+bclear http://www.vim.org/scripts/download_script.php?src_id=14069
+bigbang
+biogoo https://github.com/bdesham/biogoo/raw/master/biogoo.vim
+blackbeauty http://www.vim.org/scripts/download_script.php?src_id=2623
+blackboard http://www.vim.org/scripts/download_script.php?src_id=11225
+blacksea
+bluegreen
+borland
+breeze
+briofita
+brookstream
+burnttoast256
+buttercream
+calmar256-dark
+calmar256-light
+calmbreeze
+camo
+candy
+candycode
+chela_light
+chocolateliquor
+clarity
+cleanphp
+codeblocks_dark
+codeschool
+colorer
+colorzone
+dante
+darkBlue
+darkZ
+darkblue2
+darkbone
+darkburn
+darkdevel
+darkgit
+darknight256
+darksea
+darkslategray
+darkspectrum
+dawn
+deepblue
+dejavu
+denim
+desert
+desert256
+desertEx
+detailed
+django
+dusk
+dw_blue
+dw_cyan
+dw_green
+dw_orange
+dw_purple
+dw_red
+dw_yellow
+earendel
+eclipse
+eddie
+editplus
+ekvoli
+felipec
+festoon
+fine_blue
+fine_blue2
+fnaqevan
+fog
+freya
+fruit
+fruity
+fu
+gaea
+gardener
+gentooish
+getafe
+github
+golden
+grey
+greyhouse
+guardian
+gummybears
+habilight
+harlequin https://github.com/nielsmadan/harlequin/raw/master/colors/harlequin.vim
+hemisu
+herald
+herokudoc
+hickop
+hybrid
+impact
+imperial
+inkpot
+intellij
+ironman
+jammy
+jellybeans
+kellys
+kingtop
+kkruby
+kolor
+last256
+leo
+lettuce
+lilydjwg_dark
+lilydjwg_green
+lilypink
+lingodirector
+liquidcarbon
+lucid
+lucius
+luinnar
+luna
+mango
+manuscript
+manxome
+marklar
+maroloccio
+martin_krischik
+masmed
+matrix
+mayansmoke
+metacosm
+mickeysoft
+midnight
+midnight2
+mizore
+molokai
+montz
+moria
+moss
+motus
+mustang
+navajo-night
+navajo
+neon
+nerv-ous
+neverness
+newspaper
+night
+night_vision
+nightshimmer
+no_quarter
+northland
+nuvola
+oceanblack
+oceandeep
+oceanlight
+oh-la-la
+olive
+omen
+papayawhip
+paradox
+peaksea
+pencil
+phonzia
+print_bw
+psclone
+pyte
+railscasts
+railscasts2
+rastafari
+rdark
+relaxedgreen
+robinhood
+rootwater
+satori
+scame
+sea
+seoul256
+settlemyer
+sienna
+silent
+simple-dark
+simpleandfriendly
+skittles_berry
+softblue
+solarized https://github.com/altercation/vim-colors-solarized/raw/master/colors/solarized.vim
+sonoma
+sorcerer
+soso
+southernlights
+spring
+summerfruit256
+sunshine
+synic
+tabula
+tango
+tango2
+taqua
+tcsoft
+tesla
+tir_black
+tolerable
+torte
+tortex
+toxic
+tropikos
+twilight
+two2tango
+ubloh
+vc
+vexorian
+vibrantink
+vimhut
+vividchalk
+void
+vombato
+vylight
+werks
+winter
+wombat
+wombat256
+wombat256mod
+wood
+wuye
+xemacs
+xoria256
+xoria256m
+zenburn
+zendnb
+zenesque
+zmrok

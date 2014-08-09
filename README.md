@@ -5,7 +5,7 @@ vim-zeroth-colorscheme
 
 Zeroth Color Scheme (0CS) is a vim utility plugin to help you manage your colorscheme files which are stored online somewhere at github, bitbucket. You do not need a pathogen-like system to manage such very limited (actually only one) files.
 
-Although Vundle/Neobunle addons are really helpful for managing plugins they are so heavy to orchestrate colorschemes yet to treat colorscheme files as plugins are nonsense.
+Although Vundle/Neobunle addons are really helpful for managing plugins they are so heavy to orchestrate colorschemes yet to treat colorscheme files as plugins is nonsense.
 
 With 0CS you do not have to manage your colorschemes as plugins. Trying a new color is easy as writing its name and watching it downloads before it is applied.
 

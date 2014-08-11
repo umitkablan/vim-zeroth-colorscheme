@@ -7,6 +7,7 @@ aiseered http://www.vim.org/scripts/download_script.php?src_id=3794
 aldmeris https://github.com/veloce/vim-aldmeris/raw/master/colors/aldmeris.vim
 anokha https://github.com/vim-scripts/colorschemer/raw/master/colors/anokha.vim
 anotherdark http://www.vim.org/scripts/download_script.php?src_id=4449
+apprentice https://github.com/romainl/Apprentice/raw/master/colors/apprentice.vim
 aqua https://github.com/vim-scripts/aqua/raw/master/colors/aqua.vim
 astroboy https://github.com/vim-scripts/colorschemer/raw/master/colors/astroboy.vim
 astronaut
@@ -29,14 +30,14 @@ borland
 breeze
 briofita
 brookstream
-burnttoast256
+burnttoast256 http://www.vim.org/scripts/download_script.php?src_id=17991
 buttercream
 calmar256-dark
 calmar256-light
 calmbreeze
 camo
 candy
-candycode
+candycode http://www.vim.org/scripts/download_script.php?src_id=6066
 chela_light
 chocolateliquor
 clarity
@@ -53,7 +54,7 @@ darkbone
 darkburn
 darkdevel
 darkgit
-darknight256
+darknight256 https://github.com/vim-scripts/darknight256.vim/raw/master/colors/darknight256.vim
 darksea
 darkslategray
 darkspectrum
@@ -65,7 +66,7 @@ desert
 desert256
 desertEx
 detailed
-django
+django https://github.com/flazz/vim-colorschemes/raw/master/colors/django.vim
 dusk
 dw_blue
 dw_cyan
@@ -79,45 +80,47 @@ eclipse
 eddie
 editplus
 ekvoli
-felipec
+felipec https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
 festoon
 fine_blue
 fine_blue2
-fnaqevan
+fnaqevan http://www.vim.org/scripts/download_script.php?src_id=1362
 fog
-freya
+freya https://github.com/vim-scripts/freya/raw/master/colors/freya.vim
 fruit
-fruity
+fruity https://github.com/mitsuhiko/fruity-vim-colorscheme/raw/master/colors/fruity.vim
 fu
 gaea
-gardener
+gardener http://www.vim.org/scripts/download_script.php?src_id=4682
 gentooish
-getafe
+getafe https://github.com/larssmit/vim-getafe/raw/master/colors/getafe.vim
 github
 golden
 grey
 greyhouse
+gruvbox https://github.com/morhetz/gruvbox/raw/master/colors/gruvbox.vim
 guardian
 gummybears
 habilight
 harlequin https://github.com/nielsmadan/harlequin/raw/master/colors/harlequin.vim
-hemisu
+hemisu https://github.com/noahfrederick/vim-hemisu/raw/master/colors/hemisu.vim
 herald
 herokudoc
-hickop
-hybrid
+hickop https://github.com/hickop/vim-hickop-colors/raw/master/colors/hickop.vim
+hybrid https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid.vim
+hybrid-light https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid-light.vim
 impact
 imperial
-inkpot
+inkpot https://github.com/ciaranm/inkpot/raw/master/colors/inkpot.vim
 intellij
 ironman
 jammy
 jellybeans
 kellys
-kingtop
+kingtop https://github.com/vim-scripts/KingTop/raw/master/colors/kingtop.vim
 kkruby
 kolor
-last256
+last256 https://github.com/sk1418/last256/raw/master/colors/last256.vim
 leo
 lettuce
 lilydjwg_dark
@@ -125,10 +128,10 @@ lilydjwg_green
 lilypink
 lingodirector
 liquidcarbon
-lucid
-lucius
+lucid https://github.com/ryan-hanson/vim-lucid-colorscheme/raw/master/lucid.vim
+lucius https://github.com/jonathanfilip/vim-lucius/raw/master/colors/lucius.vim
 luinnar
-luna
+luna https://github.com/Pychimp/vim-luna/raw/master/colors/luna.vim
 mango
 manuscript
 manxome
@@ -143,17 +146,17 @@ mickeysoft
 midnight
 midnight2
 mizore
-molokai
+molokai https://github.com/tomasr/molokai/raw/master/colors/molokai.vim
 montz
-moria
+moria https://github.com/vim-scripts/moria/raw/master/colors/moria.vim
 moss
 motus
 mustang
-navajo-night
-navajo
+navajo https://github.com/flazz/vim-colorschemes/raw/master/colors/navajo.vim
+navajo-night https://github.com/flazz/vim-colorschemes/raw/master/colors/navajo-night.vim
 neon
 nerv-ous
-neverness
+neverness https://github.com/vim-scripts/Neverness-colour-scheme/raw/master/colors/neverness.vim
 newspaper
 night
 night_vision
@@ -164,20 +167,21 @@ nuvola
 oceanblack
 oceandeep
 oceanlight
-oh-la-la
+oh-la-la http://www.vim.org/scripts/download_script.php?src_id=20150
 olive
 omen
 papayawhip
 paradox
 peaksea
-pencil
-phonzia
+pencil https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
+phonzia https://github.com/vim-scripts/phonzia/raw/master/colors/phonzia.vim
 print_bw
 psclone
 pyte
+radicalgoodspeed https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
 railscasts
 railscasts2
-rastafari
+rastafari https://github.com/vim-scripts/rastafari.vim/blob/master/colors/rastafari.vim
 rdark
 relaxedgreen
 robinhood
@@ -187,7 +191,7 @@ scame
 sea
 seoul256
 settlemyer
-sienna
+sienna https://github.com/vim-scripts/sienna/raw/master/colors/sienna.vim
 silent
 simple-dark
 simpleandfriendly
@@ -195,9 +199,9 @@ skittles_berry
 softblue
 solarized https://github.com/altercation/vim-colors-solarized/raw/master/colors/solarized.vim
 sonoma
-sorcerer
+sorcerer https://github.com/vim-scripts/Sorcerer/raw/master/colors/sorcerer.vim
 soso
-southernlights
+southernlights https://github.com/vim-scripts/southernlights/raw/master/colors/southernlights.vim
 spring
 summerfruit256
 sunshine
@@ -216,7 +220,7 @@ toxic
 tropikos
 twilight
 two2tango
-ubloh
+ubloh https://github.com/vim-scripts/Ubloh-Color-Scheme/raw/master/colors/ubloh.vim
 vc
 vexorian
 vibrantink
@@ -228,7 +232,7 @@ vylight
 werks
 winter
 wombat
-wombat256
+wombat256 https://github.com/vim-scripts/Wombat/raw/master/colors/wombat.vim
 wombat256mod
 wood
 wuye

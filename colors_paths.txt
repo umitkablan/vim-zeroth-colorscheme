@@ -24,36 +24,36 @@ bigbang
 biogoo https://github.com/bdesham/biogoo/raw/master/biogoo.vim
 blackbeauty http://www.vim.org/scripts/download_script.php?src_id=2623
 blackboard http://www.vim.org/scripts/download_script.php?src_id=11225
-blacksea
-bluegreen
-borland
-breeze
-briofita
-brookstream
+blacksea http://vim.sourceforge.net/scripts/download_script.php?src_id=7236
+bluegreen http://www.vim.org/scripts/download_script.php?src_id=863
+borland https://github.com/vim-scripts/borland.vim/raw/master/colors/borland.vim
+breeze https://github.com/akitaonrails/vimfiles/raw/master/colors/breeze.vim
+briofita https://github.com/vim-scripts/Briofita/raw/master/colors/briofita.vim
+brookstream http://www.vim.org/scripts/download_script.php?src_id=1915
 burnttoast256 http://www.vim.org/scripts/download_script.php?src_id=17991
-buttercream
-calmar256-dark
-calmar256-light
-calmbreeze
-camo
-candy
+buttercream http://www.vim.org/scripts/download_script.php?src_id=5551
+calmar256-dark http://www.vim.org/scripts/download_script.php?src_id=7571
+calmar256-light http://www.vim.org/scripts/download_script.php?src_id=7572
+calmbreeze https://github.com/vim-scripts/Calm-Breeze/raw/master/colors/calmbreeze.vim
+camo http://www.vim.org/scripts/download_script.php?src_id=807
+candy https://github.com/vim-scripts/candy.vim/raw/master/colors/candy.vim
 candycode http://www.vim.org/scripts/download_script.php?src_id=6066
-chela_light
-chocolateliquor
-clarity
-cleanphp
-codeblocks_dark
-codeschool
+chela_light http://www.vim.org/scripts/download_script.php?src_id=6052
+chocolateliquor http://vim.sourceforge.net/scripts/download_script.php?src_id=7238
+clarity https://github.com/vim-scripts/clarity.vim/raw/master/colors/clarity.vim
+cleanphp http://www.vim.org/scripts/download_script.php?src_id=2109
+codeblocks_dark https://github.com/sergey-vlasov/codeblocks-dark.vim/raw/master/codeblocks-dark.vim
+codeschool https://github.com/29decibel/codeschool-vim-theme/raw/master/colors/codeschool.vim
 colorer
-colorzone
-dante
-darkBlue
+colorzone http://www.vim.org/scripts/download_script.php?src_id=17972
+dante https://github.com/vim-scripts/dante.vim/raw/master/colors/dante.vim
+darkBlue http://www.vim.org/scripts/download_script.php?src_id=17648
 darkZ
-darkblue2
-darkbone
-darkburn
+darkblue2 https://github.com/vim-scripts/darkblue2.vim/raw/master/colors/darkblue2.vim
+darkbone https://github.com/vim-scripts/darkbone.vim/raw/master/colors/darkbone.vim
+darkburn http://www.vim.org/scripts/download_script.php?src_id=10756
 darkdevel
-darkgit
+darkgit https://github.com/vim-scripts/darkgit.vim/raw/master/colors/darkgit.vim
 darknight256 https://github.com/vim-scripts/darknight256.vim/raw/master/colors/darknight256.vim
 darksea
 darkslategray

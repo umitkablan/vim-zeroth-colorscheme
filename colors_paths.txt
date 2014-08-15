@@ -55,19 +55,19 @@ darkburn http://www.vim.org/scripts/download_script.php?src_id=10756
 darkdevel
 darkgit https://github.com/vim-scripts/darkgit.vim/raw/master/colors/darkgit.vim
 darknight256 https://github.com/vim-scripts/darknight256.vim/raw/master/colors/darknight256.vim
-darksea
-darkslategray
-darkspectrum
-dawn
+darksea https://github.com/vim-scripts/vim-darksea/raw/master/colors/darksea.vim
+darkslategray http://www.vim.org/scripts/download_script.php?src_id=3523
+darkspectrum https://github.com/vim-scripts/darkspectrum/raw/master/colors/darkspectrum.vim
+dawn http://vim.sourceforge.net/scripts/download_script.php?src_id=4807
 deepblue
 dejavu
-denim
-desert
-desert256
-desertEx
-detailed
+denim https://github.com/vim-scripts/Denim/raw/master/colors/denim.vim
+desert http://www.vim.org/scripts/download_script.php?src_id=2038
+desert256 http://www.vim.org/scripts/download_script.php?src_id=4055
+desertEx https://github.com/vim-scripts/desertEx/raw/master/colors/desertEx.vim
+detailed https://github.com/rking/vim-detailed/raw/master/colors/detailed.vim
 django https://github.com/flazz/vim-colorschemes/raw/master/colors/django.vim
-dusk
+dusk http://www.vim.org/scripts/download_script.php?src_id=4806
 dw_blue
 dw_cyan
 dw_green
@@ -75,54 +75,54 @@ dw_orange
 dw_purple
 dw_red
 dw_yellow
-earendel
-eclipse
-eddie
-editplus
+earendel https://github.com/vim-scripts/earendel/raw/master/colors/earendel.vim
+eclipse https://github.com/vim-scripts/eclipse.vim/blob/master/colors/eclipse.vim
+eddie https://github.com/mattsacks/vim-eddie/raw/master/colors/eddie.vim
+editplus https://github.com/vim-scripts/EditPlus/raw/master/colors/editplus.vim
 ekvoli
 felipec https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
-festoon
-fine_blue
+festoon http://www.vim.org/scripts/download_script.php?src_id=18458
+fine_blue https://github.com/vim-scripts/fine_blue.vim/raw/master/colors/fine_blue.vim
 fine_blue2
 fnaqevan http://www.vim.org/scripts/download_script.php?src_id=1362
-fog
+fog https://github.com/vim-scripts/fog-colorscheme/raw/master/colors/fog.vim
 freya https://github.com/vim-scripts/freya/raw/master/colors/freya.vim
 fruit
 fruity https://github.com/mitsuhiko/fruity-vim-colorscheme/raw/master/colors/fruity.vim
-fu
+fu http://www.vim.org/scripts/download_script.php?src_id=13152
 gaea
 gardener http://www.vim.org/scripts/download_script.php?src_id=4682
-gentooish
+gentooish https://github.com/cdaddr/gentooish.vim/raw/master/colors/gentooish.vim
 getafe https://github.com/larssmit/vim-getafe/raw/master/colors/getafe.vim
-github
-golden
+github https://github.com/endel/vim-github-colorscheme/raw/master/colors/github.vim
+golden http://www.vim.org/scripts/download_script.php?src_id=244
 grey
 greyhouse
 gruvbox https://github.com/morhetz/gruvbox/raw/master/colors/gruvbox.vim
-guardian
-gummybears
-habilight
+guardian http://www.vim.org/scripts/download_script.php?src_id=4128
+gummybears https://github.com/dbb/vim-gummybears-colorscheme/raw/master/colors/gummybears.vim
+habilight http://www.vim.org/scripts/download_script.php?src_id=5611
 harlequin https://github.com/nielsmadan/harlequin/raw/master/colors/harlequin.vim
 hemisu https://github.com/noahfrederick/vim-hemisu/raw/master/colors/hemisu.vim
-herald
-herokudoc
+herald https://github.com/vim-scripts/herald.vim/raw/master/colors/herald.vim
+herokudoc https://github.com/uu59/vim-herokudoc-theme/raw/master/colors/herokudoc.vim
 hickop https://github.com/hickop/vim-hickop-colors/raw/master/colors/hickop.vim
 hybrid https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid.vim
 hybrid-light https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid-light.vim
-impact
+impact http://www.vim.org/scripts/download_script.php?src_id=4597
 imperial
 inkpot https://github.com/ciaranm/inkpot/raw/master/colors/inkpot.vim
 intellij
-ironman
-jammy
-jellybeans
-kellys
+ironman https://github.com/vim-scripts/ironman.vim/raw/master/colors/ironman.vim
+jammy http://www.vim.org/scripts/download_script.php?src_id=8471
+jellybeans https://github.com/nanotech/jellybeans.vim/raw/master/colors/jellybeans.vim
+kellys http://www.vim.org/scripts/download_script.php?src_id=14726
 kingtop https://github.com/vim-scripts/KingTop/raw/master/colors/kingtop.vim
-kkruby
+kkruby https://github.com/flazz/vim-colorschemes/raw/master/colors/kkruby.vim
 kolor
 last256 https://github.com/sk1418/last256/raw/master/colors/last256.vim
 leo
-lettuce
+lettuce http://www.vim.org/scripts/download_script.php?src_id=7471
 lilydjwg_dark
 lilydjwg_green
 lilypink
@@ -203,7 +203,7 @@ sorcerer https://github.com/vim-scripts/Sorcerer/raw/master/colors/sorcerer.vim
 soso
 southernlights https://github.com/vim-scripts/southernlights/raw/master/colors/southernlights.vim
 spring
-summerfruit256
+summerfruit256 https://github.com/vim-scripts/summerfruit256.vim/raw/master/colors/summerfruit256.vim
 sunshine
 synic
 tabula

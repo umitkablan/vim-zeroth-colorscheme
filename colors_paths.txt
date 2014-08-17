@@ -123,19 +123,19 @@ kolor
 last256 https://github.com/sk1418/last256/raw/master/colors/last256.vim
 leo
 lettuce http://www.vim.org/scripts/download_script.php?src_id=7471
-lilydjwg_dark
-lilydjwg_green
-lilypink
-lingodirector
-liquidcarbon
+lilydjwg_dark https://github.com/vim-scripts/lilydjwg_dark/raw/master/colors/lilydjwg_dark.vim
+lilydjwg_green http://www.vim.org/scripts/download_script.php?src_id=17646
+lilypink http://www.vim.org/scripts/download_script.php?src_id=20978
+lingodirector https://github.com/vim-scripts/lingodirector.vim--Pawlik/raw/master/colors/lingodirector.vim
+liquidcarbon https://github.com/vim-scripts/Liquid-Carbon/raw/master/colors/liquidcarbon.vim
 lucid https://github.com/ryan-hanson/vim-lucid-colorscheme/raw/master/lucid.vim
 lucius https://github.com/jonathanfilip/vim-lucius/raw/master/colors/lucius.vim
-luinnar
+luinnar http://www.vim.org/scripts/download_script.php?src_id=14210
 luna https://github.com/Pychimp/vim-luna/raw/master/colors/luna.vim
 mango https://github.com/goatslacker/mango.vim/raw/master/colors/mango.vim
 manuscript https://github.com/flazz/vim-colorschemes/raw/master/colors/manuscript.vim
 manxome https://github.com/vim-scripts/manxome-foes-colorscheme/raw/master/colors/manxome.vim
-marklar
+marklar http://www.vim.org/scripts/download_script.php?src_id=6487
 maroloccio
 martin_krischik http://www.vim.org/scripts/download_script.php?src_id=6433
 masmed https://github.com/vim-scripts/Colour-Sampler-Pack/raw/master/colors/masmed.vim
@@ -169,8 +169,8 @@ oceanblack https://github.com/chrisv/vim-chrisv/raw/master/colors/oceanblack.vim
 oceandeep https://github.com/vim-scripts/oceandeep/raw/master/colors/oceandeep.vim
 oceanlight http://www.vim.org/scripts/download_script.php?src_id=3753
 oh-la-la http://www.vim.org/scripts/download_script.php?src_id=20150
-olive
-omen
+olive https://github.com/vim-scripts/Olive/raw/master/colors/olive.vim
+omen https://github.com/vim-scripts/mimicpak/raw/master/colors/omen.vim
 papayawhip
 paradox
 peaksea

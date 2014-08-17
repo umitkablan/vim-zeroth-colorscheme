@@ -132,41 +132,42 @@ lucid https://github.com/ryan-hanson/vim-lucid-colorscheme/raw/master/lucid.vim
 lucius https://github.com/jonathanfilip/vim-lucius/raw/master/colors/lucius.vim
 luinnar
 luna https://github.com/Pychimp/vim-luna/raw/master/colors/luna.vim
-mango
-manuscript
-manxome
+mango https://github.com/goatslacker/mango.vim/raw/master/colors/mango.vim
+manuscript https://github.com/flazz/vim-colorschemes/raw/master/colors/manuscript.vim
+manxome https://github.com/vim-scripts/manxome-foes-colorscheme/raw/master/colors/manxome.vim
 marklar
 maroloccio
-martin_krischik
-masmed
-matrix
-mayansmoke
-metacosm
-mickeysoft
-midnight
-midnight2
-mizore
+martin_krischik http://www.vim.org/scripts/download_script.php?src_id=6433
+masmed https://github.com/vim-scripts/Colour-Sampler-Pack/raw/master/colors/masmed.vim
+matrix https://github.com/flazz/vim-colorschemes/raw/master/colors/matrix.vim
+mayansmoke https://github.com/vim-scripts/mayansmoke/raw/master/colors/mayansmoke.vim
+metacosm http://www.vim.org/scripts/download_script.php?src_id=10743
+mickeysoft https://github.com/vim-scripts/Colour-Sampler-Pack/raw/master/colors/mickeysoft.vim
+midnight http://www.vim.org/scripts/download_script.php?src_id=6503
+midnight2 http://www.vim.org/scripts/download_script.php?src_id=6500
+mizore https://github.com/vim-scripts/Mizore/raw/master/colors/mizore.vim
 molokai https://github.com/tomasr/molokai/raw/master/colors/molokai.vim
-montz
+montz https://github.com/flazz/vim-colorschemes/raw/master/colors/montz.vim
 moria https://github.com/vim-scripts/moria/raw/master/colors/moria.vim
-moss
-motus
-mustang
+moss https://github.com/vim-scripts/moss/raw/master/colors/moss.vim
+motus http://www.vim.org/scripts/download_script.php?src_id=4717
+mustang https://github.com/croaker/mustang-vim/raw/master/colors/mustang.vim
 navajo https://github.com/flazz/vim-colorschemes/raw/master/colors/navajo.vim
 navajo-night https://github.com/flazz/vim-colorschemes/raw/master/colors/navajo-night.vim
-neon
+neon https://github.com/yuratomo/neon.vim/raw/master/colors/neon.vim
+neon2 https://github.com/yuratomo/neon.vim/raw/master/colors/neon2.vim
 nerv-ous
 neverness https://github.com/vim-scripts/Neverness-colour-scheme/raw/master/colors/neverness.vim
-newspaper
-night
-night_vision
-nightshimmer
+newspaper https://github.com/vim-scripts/newspaper.vim/raw/master/colors/newspaper.vim
+night http://www.vim.org/scripts/download_script.php?src_id=663
+night_vision https://github.com/vim-scripts/Night-Vision-Colorscheme/raw/master/colors/night_vision.vim
+nightshimmer https://github.com/vim-scripts/Nightshimmer/raw/master/colors/nightshimmer.vim
 no_quarter
-northland
-nuvola
-oceanblack
-oceandeep
-oceanlight
+northland http://www.vim.org/scripts/download_script.php?src_id=9563
+nuvola http://www.vim.org/scripts/download_script.php?src_id=2222
+oceanblack https://github.com/chrisv/vim-chrisv/raw/master/colors/oceanblack.vim
+oceandeep https://github.com/vim-scripts/oceandeep/raw/master/colors/oceandeep.vim
+oceanlight http://www.vim.org/scripts/download_script.php?src_id=3753
 oh-la-la http://www.vim.org/scripts/download_script.php?src_id=20150
 olive
 omen

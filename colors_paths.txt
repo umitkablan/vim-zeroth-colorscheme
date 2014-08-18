@@ -171,41 +171,42 @@ oceanlight http://www.vim.org/scripts/download_script.php?src_id=3753
 oh-la-la http://www.vim.org/scripts/download_script.php?src_id=20150
 olive https://github.com/vim-scripts/Olive/raw/master/colors/olive.vim
 omen https://github.com/vim-scripts/mimicpak/raw/master/colors/omen.vim
-papayawhip
+papayawhip https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/PapayaWhip.vim
 paradox
-peaksea
+peaksea https://github.com/vim-scripts/peaksea/raw/master/colors/peaksea.vim
 pencil https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
 phonzia https://github.com/vim-scripts/phonzia/raw/master/colors/phonzia.vim
-print_bw
+print_bw https://github.com/vim-scripts/colorschemer/raw/master/colors/print_bw.vim
 psclone
-pyte
+pyte https://github.com/therubymug/vim-pyte/raw/master/colors/pyte.vim
 radicalgoodspeed https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
-railscasts
+railscasts https://github.com/jpo/vim-railscasts-theme/raw/master/colors/railscasts.vim
 railscasts2
 rastafari https://github.com/vim-scripts/rastafari.vim/blob/master/colors/rastafari.vim
 rdark
-relaxedgreen
-robinhood
-rootwater
-satori
+relaxedgreen https://github.com/vim-scripts/Relaxed-Green/raw/master/colors/relaxedgreen.vim
+robinhood http://www.vim.org/scripts/download_script.php?src_id=4294
+rootwater https://github.com/vim-scripts/rootwater.vim/raw/master/colors/rootwater.vim
+satori https://github.com/vim-scripts/Satori-Color-Scheme/raw/master/colors/satori.vim
 scame
-sea
-seoul256
-settlemyer
+sea https://github.com/flazz/vim-colorschemes/raw/master/colors/sea.vim
+seoul256 https://github.com/junegunn/seoul256.vim/raw/master/colors/seoul256.vim
+seoul256-light https://github.com/junegunn/seoul256.vim/raw/master/colors/seoul256-light.vim
+settlemyer http://www.vim.org/scripts/download_script.php?src_id=5835
 sienna https://github.com/vim-scripts/sienna/raw/master/colors/sienna.vim
-silent
-simple-dark
-simpleandfriendly
-skittles_berry
-softblue
+silent http://www.vim.org/scripts/download_script.php?src_id=9876
+simple-dark https://github.com/zefei/simple-dark/raw/master/colors/simple-dark.vim
+simpleandfriendly https://github.com/vim-scripts/simpleandfriendly.vim/raw/master/colors/simpleandfriendly.vim
+skittles_berry https://github.com/vim-scripts/Skittles-Berry/raw/master/colors/skittles_berry.vim
+softblue http://www.vim.org/scripts/download_script.php?src_id=4922
 solarized https://github.com/altercation/vim-colors-solarized/raw/master/colors/solarized.vim
-sonoma
+sonoma http://www.vim.org/scripts/download_script.php?src_id=17981
 sorcerer https://github.com/vim-scripts/Sorcerer/raw/master/colors/sorcerer.vim
-soso
+soso http://www.vim.org/scripts/download_script.php?src_id=7848
 southernlights https://github.com/vim-scripts/southernlights/raw/master/colors/southernlights.vim
-spring
+spring http://www.vim.org/scripts/download_script.php?src_id=9257
 summerfruit256 https://github.com/vim-scripts/summerfruit256.vim/raw/master/colors/summerfruit256.vim
-sunshine
+sunshine https://github.com/gnujeremie/colorscheme-gnujeremie/raw/master/colors/sunshine.vim
 synic
 tabula
 tango

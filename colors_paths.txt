@@ -20,7 +20,7 @@ badwolf https://github.com/sjl/badwolf/raw/master/colors/badwolf.vim
 bandit
 baycomb http://www.vim.org/scripts/download_script.php?src_id=5795
 bclear http://www.vim.org/scripts/download_script.php?src_id=14069
-bigbang
+bigbang https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/dark/colors/bigbang.vim
 biogoo https://github.com/bdesham/biogoo/raw/master/biogoo.vim
 blackbeauty http://www.vim.org/scripts/download_script.php?src_id=2623
 blackboard http://www.vim.org/scripts/download_script.php?src_id=11225
@@ -44,7 +44,7 @@ clarity https://github.com/vim-scripts/clarity.vim/raw/master/colors/clarity.vim
 cleanphp http://www.vim.org/scripts/download_script.php?src_id=2109
 codeblocks_dark https://github.com/sergey-vlasov/codeblocks-dark.vim/raw/master/codeblocks-dark.vim
 codeschool https://github.com/29decibel/codeschool-vim-theme/raw/master/colors/codeschool.vim
-colorer
+colorer https://github.com/vim-scripts/colorer-color-scheme/raw/master/colors/colorer.vim
 colorzone http://www.vim.org/scripts/download_script.php?src_id=17972
 dante https://github.com/vim-scripts/dante.vim/raw/master/colors/dante.vim
 darkBlue http://www.vim.org/scripts/download_script.php?src_id=17648
@@ -52,15 +52,15 @@ darkZ
 darkblue2 https://github.com/vim-scripts/darkblue2.vim/raw/master/colors/darkblue2.vim
 darkbone https://github.com/vim-scripts/darkbone.vim/raw/master/colors/darkbone.vim
 darkburn http://www.vim.org/scripts/download_script.php?src_id=10756
-darkdevel
+darkdevel https://github.com/depuracao/vim-darkdevel/raw/master/colors/darkdevel.vim
 darkgit https://github.com/vim-scripts/darkgit.vim/raw/master/colors/darkgit.vim
 darknight256 https://github.com/vim-scripts/darknight256.vim/raw/master/colors/darknight256.vim
 darksea https://github.com/vim-scripts/vim-darksea/raw/master/colors/darksea.vim
 darkslategray http://www.vim.org/scripts/download_script.php?src_id=3523
 darkspectrum https://github.com/vim-scripts/darkspectrum/raw/master/colors/darkspectrum.vim
 dawn http://vim.sourceforge.net/scripts/download_script.php?src_id=4807
-deepblue
-dejavu
+deepblue https://github.com/rodnaph/vim-color-schemes/raw/master/colors/guepardo.vim
+dejavu https://github.com/vim-scripts/colorschemer/raw/master/colors/dejavu.vim
 denim https://github.com/vim-scripts/Denim/raw/master/colors/denim.vim
 desert http://www.vim.org/scripts/download_script.php?src_id=2038
 desert256 http://www.vim.org/scripts/download_script.php?src_id=4055
@@ -68,18 +68,19 @@ desertEx https://github.com/vim-scripts/desertEx/raw/master/colors/desertEx.vim
 detailed https://github.com/rking/vim-detailed/raw/master/colors/detailed.vim
 django https://github.com/flazz/vim-colorschemes/raw/master/colors/django.vim
 dusk http://www.vim.org/scripts/download_script.php?src_id=4806
-dw_blue
-dw_cyan
-dw_green
-dw_orange
-dw_purple
-dw_red
-dw_yellow
+dw_blue https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_blue.vim
+dw_cyan https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_cyan.vim
+dw_green https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_green.vim
+dw_orange https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_orange.vim
+dw_purple https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_purple.vim
+dw_red https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_red.vim
+dw_yellow https://github.com/rodnaph/vim-color-schemes/raw/master/colors/dw_yellow.vim
 earendel https://github.com/vim-scripts/earendel/raw/master/colors/earendel.vim
 eclipse https://github.com/vim-scripts/eclipse.vim/blob/master/colors/eclipse.vim
 eddie https://github.com/mattsacks/vim-eddie/raw/master/colors/eddie.vim
 editplus https://github.com/vim-scripts/EditPlus/raw/master/colors/editplus.vim
-ekvoli
+emacs http://www.vim.org/scripts/download_script.php?src_id=117
+ekvoli https://github.com/rodnaph/vim-color-schemes/raw/master/colors/ekvoli.vim
 felipec https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
 festoon http://www.vim.org/scripts/download_script.php?src_id=18458
 fine_blue https://github.com/vim-scripts/fine_blue.vim/raw/master/colors/fine_blue.vim
@@ -90,14 +91,14 @@ freya https://github.com/vim-scripts/freya/raw/master/colors/freya.vim
 fruit
 fruity https://github.com/mitsuhiko/fruity-vim-colorscheme/raw/master/colors/fruity.vim
 fu http://www.vim.org/scripts/download_script.php?src_id=13152
-gaea
+gaea https://github.com/vim-scripts/colorschemer/raw/master/colors/gaea.vim
 gardener http://www.vim.org/scripts/download_script.php?src_id=4682
 gentooish https://github.com/cdaddr/gentooish.vim/raw/master/colors/gentooish.vim
 getafe https://github.com/larssmit/vim-getafe/raw/master/colors/getafe.vim
 github https://github.com/endel/vim-github-colorscheme/raw/master/colors/github.vim
 golden http://www.vim.org/scripts/download_script.php?src_id=244
 grey
-greyhouse
+greyhouse https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/greyhouse.vim
 gruvbox https://github.com/morhetz/gruvbox/raw/master/colors/gruvbox.vim
 guardian http://www.vim.org/scripts/download_script.php?src_id=4128
 gummybears https://github.com/dbb/vim-gummybears-colorscheme/raw/master/colors/gummybears.vim
@@ -110,7 +111,7 @@ hickop https://github.com/hickop/vim-hickop-colors/raw/master/colors/hickop.vim
 hybrid https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid.vim
 hybrid-light https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid-light.vim
 impact http://www.vim.org/scripts/download_script.php?src_id=4597
-imperial
+imperial https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/imperial.vim
 inkpot https://github.com/ciaranm/inkpot/raw/master/colors/inkpot.vim
 intellij
 ironman https://github.com/vim-scripts/ironman.vim/raw/master/colors/ironman.vim
@@ -119,9 +120,9 @@ jellybeans https://github.com/nanotech/jellybeans.vim/raw/master/colors/jellybea
 kellys http://www.vim.org/scripts/download_script.php?src_id=14726
 kingtop https://github.com/vim-scripts/KingTop/raw/master/colors/kingtop.vim
 kkruby https://github.com/flazz/vim-colorschemes/raw/master/colors/kkruby.vim
-kolor
+kolor https://github.com/zeis/vim-kolor/raw/master/colors/kolor.vim
 last256 https://github.com/sk1418/last256/raw/master/colors/last256.vim
-leo
+leo http://www.vim.org/scripts/download_script.php?src_id=14339
 lettuce http://www.vim.org/scripts/download_script.php?src_id=7471
 lilydjwg_dark https://github.com/vim-scripts/lilydjwg_dark/raw/master/colors/lilydjwg_dark.vim
 lilydjwg_green http://www.vim.org/scripts/download_script.php?src_id=17646
@@ -162,7 +163,7 @@ newspaper https://github.com/vim-scripts/newspaper.vim/raw/master/colors/newspap
 night http://www.vim.org/scripts/download_script.php?src_id=663
 night_vision https://github.com/vim-scripts/Night-Vision-Colorscheme/raw/master/colors/night_vision.vim
 nightshimmer https://github.com/vim-scripts/Nightshimmer/raw/master/colors/nightshimmer.vim
-no_quarter
+no_quarter http://www.vim.org/scripts/download_script.php?src_id=12828
 northland http://www.vim.org/scripts/download_script.php?src_id=9563
 nuvola http://www.vim.org/scripts/download_script.php?src_id=2222
 oceanblack https://github.com/chrisv/vim-chrisv/raw/master/colors/oceanblack.vim
@@ -172,18 +173,18 @@ oh-la-la http://www.vim.org/scripts/download_script.php?src_id=20150
 olive https://github.com/vim-scripts/Olive/raw/master/colors/olive.vim
 omen https://github.com/vim-scripts/mimicpak/raw/master/colors/omen.vim
 papayawhip https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/PapayaWhip.vim
-paradox
+paradox https://github.com/vim-scripts/colorschemer/raw/master/colors/paradox.vim
 peaksea https://github.com/vim-scripts/peaksea/raw/master/colors/peaksea.vim
 pencil https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
 phonzia https://github.com/vim-scripts/phonzia/raw/master/colors/phonzia.vim
 print_bw https://github.com/vim-scripts/colorschemer/raw/master/colors/print_bw.vim
-psclone
+psclone https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/dark/colors/psclone.vim
 pyte https://github.com/therubymug/vim-pyte/raw/master/colors/pyte.vim
 radicalgoodspeed https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
 railscasts https://github.com/jpo/vim-railscasts-theme/raw/master/colors/railscasts.vim
-railscasts2
+railscasts2 https://github.com/akitaonrails/vimfiles/raw/master/colors/railscasts2.vim
 rastafari https://github.com/vim-scripts/rastafari.vim/blob/master/colors/rastafari.vim
-rdark
+rdark http://www.vim.org/scripts/download_script.php?src_id=7293
 relaxedgreen https://github.com/vim-scripts/Relaxed-Green/raw/master/colors/relaxedgreen.vim
 robinhood http://www.vim.org/scripts/download_script.php?src_id=4294
 rootwater https://github.com/vim-scripts/rootwater.vim/raw/master/colors/rootwater.vim
@@ -207,41 +208,42 @@ southernlights https://github.com/vim-scripts/southernlights/raw/master/colors/s
 spring http://www.vim.org/scripts/download_script.php?src_id=9257
 summerfruit256 https://github.com/vim-scripts/summerfruit256.vim/raw/master/colors/summerfruit256.vim
 sunshine https://github.com/gnujeremie/colorscheme-gnujeremie/raw/master/colors/sunshine.vim
-synic
-tabula
-tango
-tango2
-taqua
-tcsoft
-tesla
-tir_black
-tolerable
-torte
-tortex
-toxic
-tropikos
-twilight
-two2tango
+synic http://www.vim.org/scripts/download_script.php?src_id=11157
+tabula https://github.com/vim-scripts/tabula.vim/raw/master/colors/tabula.vim
+tango http://www.vim.org/scripts/download_script.php?src_id=11478
+tango2 http://www.vim.org/scripts/download_script.php?src_id=9387
+taqua https://github.com/flazz/vim-colorschemes/raw/master/colors/taqua.vim
+tcsoft https://github.com/vim-scripts/tcsoft.vim/raw/master/colors/tcsoft.vim
+tesla http://www.vim.org/scripts/download_script.php?src_id=18215
+tir_black http://www.vim.org/scripts/download_script.php?src_id=11430
+tolerable http://vim.sourceforge.net/scripts/download_script.php?src_id=3741
+torte http://www.vim.org/scripts/download_script.php?src_id=245
+tortex https://github.com/vim-scripts/tortex/raw/master/colors/tortex.vim
+toxic http://www.vim.org/scripts/download_script.php?src_id=16131
+tropikos https://github.com/blackgate/tropikos-vim-theme/raw/master/colors/tropikos.vim
+twilight http://www.vim.org/scripts/download_script.php?src_id=10496
+twilight256 http://www.vim.org/scripts/download_script.php?src_id=14937
+two2tango http://www.vim.org/scripts/download_script.php?src_id=13054
 ubloh https://github.com/vim-scripts/Ubloh-Color-Scheme/raw/master/colors/ubloh.vim
-vc
-vexorian
-vibrantink
-vimhut
-vividchalk
-void
-vombato
-vylight
-werks
-winter
-wombat
+vc https://github.com/flazz/vim-colorschemes/raw/master/colors/vc.vim
+vexorian https://github.com/vim-scripts/Vexorian-color-scheme/raw/master/colors/vexorian.vim
+vibrantink https://github.com/vim-scripts/vibrantink/raw/master/colors/vibrantink.vim
+vimhut https://github.com/vim-scripts/colorschemer/raw/master/colors/vimhut.vim
+vividchalk https://github.com/tpope/vim-vividchalk/raw/master/colors/vividchalk.vim
+void https://github.com/vim-scripts/void/raw/master/colors/void.vim
+vombato https://github.com/molok/vim-vombato-colorscheme/raw/master/colors/vombato.vim
+vylight https://github.com/vim-scripts/vylight/raw/master/colors/vylight.vim
+werks https://github.com/vim-scripts/werks.vim/raw/master/colors/werks.vim
+winter https://github.com/flazz/vim-colorschemes/raw/master/colors/winter.vim
+wombat https://github.com/vim-scripts/Wombat/raw/master/colors/wombat.vim
 wombat256 https://github.com/vim-scripts/Wombat/raw/master/colors/wombat.vim
-wombat256mod
-wood
-wuye
+wombat256mod https://github.com/michalbachowski/vim-wombat256mod/raw/master/colors/wombat256mod.vim
+wood https://github.com/vim-scripts/wood.vim/raw/master/colors/wood.vim
+wuye https://github.com/vim-scripts/WuYe/raw/master/colors/wuye.vim
 xemacs
-xoria256
-xoria256m
-zenburn
-zendnb
-zenesque
-zmrok
+xoria256 https://github.com/vim-scripts/xoria256.vim/raw/master/colors/xoria256.vim
+xoria256m http://www.vim.org/scripts/download_script.php?src_id=19662
+zenburn https://github.com/jnurmine/Zenburn/raw/master/colors/zenburn.vim
+zendnb https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/dark/colors/zendnb.vim
+zenesque https://github.com/vim-scripts/zenesque.vim/raw/master/colors/zenesque.vim
+zmrok https://github.com/vim-scripts/Zmrok/raw/master/colors/zmrok.vim

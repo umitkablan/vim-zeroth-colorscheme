@@ -44,7 +44,7 @@ function! zerothcs#Get_AllColors_List()
 endfunction
 
 function! zerothcs#Dload_CS(csurl, fpath)
-	let cline  = 'wget -q ' . shellescape(a:csurl) . " -O " . shellescape(a:fpath)
+	let cline = 'wget -q --no-check-certificate ' . shellescape(a:csurl) . " -O " . shellescape(a:fpath)
 	call system(cline)
 endfunction
 

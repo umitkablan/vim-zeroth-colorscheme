@@ -53,6 +53,7 @@ darkblue2 https://github.com/vim-scripts/darkblue2.vim/raw/master/colors/darkblu
 darkbone https://github.com/vim-scripts/darkbone.vim/raw/master/colors/darkbone.vim
 darkburn http://www.vim.org/scripts/download_script.php?src_id=10756
 darkdevel https://github.com/depuracao/vim-darkdevel/raw/master/colors/darkdevel.vim
+darkdot_256 https://github.com/rkitover/256_darkdot_vim/raw/master/256_darkdot.vim
 darkgit https://github.com/vim-scripts/darkgit.vim/raw/master/colors/darkgit.vim
 darknight256 https://github.com/vim-scripts/darknight256.vim/raw/master/colors/darknight256.vim
 darksea https://github.com/vim-scripts/vim-darksea/raw/master/colors/darksea.vim

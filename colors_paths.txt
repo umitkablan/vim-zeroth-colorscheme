@@ -176,6 +176,7 @@ papayawhip https://github.com/megaannum/colorschemer/raw/master/data/colorscheme
 paradox https://github.com/vim-scripts/colorschemer/raw/master/colors/paradox.vim
 peaksea https://github.com/vim-scripts/peaksea/raw/master/colors/peaksea.vim
 pencil https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
+PerfectDark http://www.vim.org/scripts/download_script.php?src_id=22923
 phonzia https://github.com/vim-scripts/phonzia/raw/master/colors/phonzia.vim
 print_bw https://github.com/vim-scripts/colorschemer/raw/master/colors/print_bw.vim
 psclone https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/dark/colors/psclone.vim

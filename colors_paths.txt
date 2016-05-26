@@ -109,6 +109,7 @@ herokudoc https://github.com/uu59/vim-herokudoc-theme/raw/master/colors/herokudo
 hickop https://github.com/hickop/vim-hickop-colors/raw/master/colors/hickop.vim
 hybrid https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid.vim
 hybrid-light https://github.com/w0ng/vim-hybrid/raw/master/colors/hybrid-light.vim
+iceberg https://raw.githubusercontent.com/cocopon/iceberg.vim/master/colors/iceberg.vim
 impact http://www.vim.org/scripts/download_script.php?src_id=4597
 imperial https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/imperial.vim
 inkpot https://github.com/ciaranm/inkpot/raw/master/colors/inkpot.vim
@@ -218,6 +219,9 @@ tcsoft https://github.com/vim-scripts/tcsoft.vim/raw/master/colors/tcsoft.vim
 tesla http://www.vim.org/scripts/download_script.php?src_id=18215
 tir_black http://www.vim.org/scripts/download_script.php?src_id=11430
 tolerable http://vim.sourceforge.net/scripts/download_script.php?src_id=3741
+Tomorrow https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow.vim
+Tomorrow-Night https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow-Night.vim
+Tomorrow-Night-Bright https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow-Night-Bright.vim
 Tomorrow-Night-Eighties https://github.com/chriskempson/tomorrow-theme/raw/master/vim/colors/Tomorrow-Night.vim
 torte http://www.vim.org/scripts/download_script.php?src_id=245
 tortex https://github.com/vim-scripts/tortex/raw/master/colors/tortex.vim

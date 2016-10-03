@@ -193,6 +193,7 @@ rootwater https://github.com/vim-scripts/rootwater.vim/raw/master/colors/rootwat
 satori https://github.com/vim-scripts/Satori-Color-Scheme/raw/master/colors/satori.vim
 scame
 sea https://github.com/flazz/vim-colorschemes/raw/master/colors/sea.vim
+seattle https://github.com/mbbill/vim-seattle/raw/master/colors/seattle.vim
 seoul256 https://github.com/junegunn/seoul256.vim/raw/master/colors/seoul256.vim
 seoul256-light https://github.com/junegunn/seoul256.vim/raw/master/colors/seoul256-light.vim
 settlemyer http://www.vim.org/scripts/download_script.php?src_id=5835
@@ -203,6 +204,7 @@ simple-dark https://github.com/zefei/simple-dark/raw/master/colors/simple-dark.v
 skittles_berry https://github.com/vim-scripts/Skittles-Berry/raw/master/colors/skittles_berry.vim
 softblue http://www.vim.org/scripts/download_script.php?src_id=4922
 solarized https://github.com/altercation/vim-colors-solarized/raw/master/colors/solarized.vim
+solarized8_dark https://github.com/lifepillar/vim-solarized8/raw/master/colors/solarized8_dark.vim
 sonoma http://www.vim.org/scripts/download_script.php?src_id=17981
 sorcerer https://github.com/vim-scripts/Sorcerer/raw/master/colors/sorcerer.vim
 soso http://www.vim.org/scripts/download_script.php?src_id=7848

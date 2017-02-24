@@ -178,7 +178,7 @@ omen https://github.com/vim-scripts/mimicpak/raw/master/colors/omen.vim
 papayawhip https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/PapayaWhip.vim
 paradox https://github.com/vim-scripts/colorschemer/raw/master/colors/paradox.vim
 peaksea https://github.com/vim-scripts/peaksea/raw/master/colors/peaksea.vim
-pencil https://github.com/vim-scripts/felipec/raw/master/colors/felipec.vim
+pencil https://raw.githubusercontent.com/reedes/vim-colors-pencil/master/colors/pencil.vim
 PerfectDark http://www.vim.org/scripts/download_script.php?src_id=22923
 phonzia https://github.com/vim-scripts/phonzia/raw/master/colors/phonzia.vim
 print_bw https://github.com/vim-scripts/colorschemer/raw/master/colors/print_bw.vim

@@ -65,6 +65,7 @@ desert256 http://www.vim.org/scripts/download_script.php?src_id=4055
 desertEx https://github.com/vim-scripts/desertEx/raw/master/colors/desertEx.vim
 desert http://www.vim.org/scripts/download_script.php?src_id=2038
 detailed https://github.com/rking/vim-detailed/raw/master/colors/detailed.vim
+distinguished https://github.com/Lokaltog/vim-distinguished/raw/develop/colors/distinguished.vim
 django https://github.com/flazz/vim-colorschemes/raw/master/colors/django.vim
 dracula https://raw.githubusercontent.com/dracula/vim/master/colors/dracula.vim
 dusk http://www.vim.org/scripts/download_script.php?src_id=4806
@@ -150,6 +151,7 @@ midnight http://www.vim.org/scripts/download_script.php?src_id=6503
 mizore https://github.com/vim-scripts/Mizore/raw/master/colors/mizore.vim
 molokai https://github.com/tomasr/molokai/raw/master/colors/molokai.vim
 monokai https://github.com/sickill/vim-monokai/raw/master/colors/monokai.vim
+Monokai-Refined https://github.com/jaromero/vim-monokai-refined/raw/master/colors/Monokai-Refined.vim
 montz https://github.com/flazz/vim-colorschemes/raw/master/colors/montz.vim
 moria https://github.com/vim-scripts/moria/raw/master/colors/moria.vim
 moss https://github.com/vim-scripts/moss/raw/master/colors/moss.vim

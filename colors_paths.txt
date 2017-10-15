@@ -178,6 +178,7 @@ oh-la-la http://www.vim.org/scripts/download_script.php?src_id=20150
 olive https://github.com/vim-scripts/Olive/raw/master/colors/olive.vim
 omen https://github.com/vim-scripts/mimicpak/raw/master/colors/omen.vim
 papayawhip https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/light/colors/PapayaWhip.vim
+papercolor https://raw.githubusercontent.com/NLKNguyen/papercolor-theme/master/colors/PaperColor.vim
 paradox https://github.com/vim-scripts/colorschemer/raw/master/colors/paradox.vim
 peaksea https://github.com/vim-scripts/peaksea/raw/master/colors/peaksea.vim
 pencil https://raw.githubusercontent.com/reedes/vim-colors-pencil/master/colors/pencil.vim

@@ -1,15 +1,25 @@
 
 let s:zcs_confpath = expand('<sfile>:p:h')
+let s:lastcolor_fname = 'lastcolor.txt'
 
 function! zerothcs#Load_CS(csname) abort
+	if a:csname ==# ''
+		let loaded = s:loadCS_Saved()
+		if !loaded
+			echoerr 'ZerothCS: No loaded colorscheme found!'
+		endif
+		return
+	endif
+
 	let [is_git, url] = zerothcs#Get_URL_Of_CS(a:csname)
 	if url ==# ''
 		echoerr 'ZerothColor ' . a:csname . ' could not be found. its URL is not defined!'
 		return
 	endif
 
+	let dirp = ''
 	if is_git
-		let err = s:loadCS_ViaGit(url)
+		let [dirp, err] = s:loadCS_ViaGit(url)
 	else
 		let err = s:loadCS_ViaWget(url, a:csname)
 	endif
@@ -18,6 +28,7 @@ function! zerothcs#Load_CS(csname) abort
 		echoerr 'ZerothCS: ' . err
 	else
 		exec 'colorscheme ' . a:csname
+		call s:saveCS(a:csname, dirp)
 	endif
 endfunction
 
@@ -46,13 +57,24 @@ function! zerothcs#Complete_Colors(initials) abort
 	return ret
 endfunction
 
+function! s:loadCS_Saved() abort
+	let [csname, dirp] = s:readCS()
+	if len(dirp)
+		exec 'set rtp+=' . dirp
+	endif
+	if len(csname)
+		exec 'colorscheme ' . csname
+	endif
+	return len(csname)
+endfunction
+
 function! s:loadCS_ViaGit(url) abort
 	let [dirp, sherr, out] = s:clone_CS(a:url, g:zerothcs_colors_repodir)
 	if dirp ==# ''
-		return 'Could not clone repo: ' . a:url . ':' . sherr . ':' . out
+		return [dirp, 'Could not clone repo: ' . a:url . ':' . sherr . ':' . out]
 	endif
 	exec 'set rtp+=' . dirp
-	return ''
+	return [dirp, '']
 endfunction
 
 function! s:loadCS_ViaWget(url, csname) abort
@@ -117,3 +139,19 @@ function! s:execSystem(cmd) abort
 	return [out, err, v:shell_error]
 endfunction
 
+function! s:saveCS(csname, dirpath) abort
+	call writefile([a:csname . ' ' . a:dirpath], g:zerothcs_colors_repodir . '/' . s:lastcolor_fname)
+endfunction
+
+function! s:readCS() abort
+	let [csname, dirpath] = ['', '']
+	try
+		let line = readfile(g:zerothcs_colors_repodir . '/' . s:lastcolor_fname)[0]
+		let spacei = stridx(line, ' ')
+		if spacei > 0
+			let [csname, dirpath] = [line[0:spacei-1], line[spacei+1:]]
+		endif
+	catch /.*/
+	endtry
+	return [csname, dirpath]
+endfunction

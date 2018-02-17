@@ -15,7 +15,7 @@ if !exists('g:zerothcs_colors_repodir')
 endif
 call system('mkdir -p ' . g:zerothcs_colors_repodir)
 
-command! -nargs=* -complete=customlist,s:Zcs_Complete_Params ZerothCS call zerothcs#Load_CS(<f-args>)
+command! -nargs=* -complete=customlist,s:Zcs_Complete_Params ZerothCS call zerothcs#Load_CS(<q-args>)
 
 function! s:Zcs_Complete_Params(arg, line, pos)
     let l = split(a:line[:a:pos-1], '\%(\%(\%(^\|[^\\]\)\\\)\@<!\s\)\+', 1)

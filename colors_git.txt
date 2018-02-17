@@ -14,6 +14,7 @@ briofita https://github.com/vim-scripts/Briofita
 calmbreeze https://github.com/vim-scripts/Calm-Breeze
 candy https://github.com/vim-scripts/candy.vim
 clarity https://github.com/vim-scripts/clarity.vim
+codeblocks_dark https://github.com/noscript/codeblocks-dark.vim
 codeschool https://github.com/29decibel/codeschool-vim-theme
 colorer https://github.com/vim-scripts/colorer-color-scheme
 dante https://github.com/vim-scripts/dante.vim
@@ -30,7 +31,7 @@ denim https://github.com/vim-scripts/Denim
 desertEx https://github.com/vim-scripts/desertEx
 detailed https://github.com/rking/vim-detailed
 django https://github.com/flazz/vim-colorschemes
-dracula https://raw.githubusercontent.com/dracula/vim/master/colors/dracula.vim
+dracula https://github.com/dracula/vim
 dw_blue https://github.com/rodnaph/vim-color-schemes
 dw_cyan https://github.com/rodnaph/vim-color-schemes
 dw_green https://github.com/rodnaph/vim-color-schemes
@@ -100,17 +101,17 @@ oceanblack https://github.com/chrisv/vim-chrisv
 oceandeep https://github.com/vim-scripts/oceandeep
 olive https://github.com/vim-scripts/Olive
 omen https://github.com/vim-scripts/mimicpak
-papercolor https://raw.githubusercontent.com/NLKNguyen/papercolor-theme/master/colors/PaperColor.vim
+papercolor https://github.com/NLKNguyen/papercolor-theme
 paradox https://github.com/vim-scripts/colorschemer
 peaksea https://github.com/vim-scripts/peaksea
-pencil https://raw.githubusercontent.com/reedes/vim-colors-pencil/master/colors/pencil.vim
+pencil https://github.com/reedes/vim-colors-pencil
 phonzia https://github.com/vim-scripts/phonzia
 print_bw https://github.com/vim-scripts/colorschemer
 pyte https://github.com/therubymug/vim-pyte
 radicalgoodspeed https://github.com/vim-scripts/felipec
 railscasts2 https://github.com/akitaonrails/vimfiles
 railscasts https://github.com/jpo/vim-railscasts-theme
-rastafari https://github.com/vim-scripts/rastafari.vim/blob/master/colors/rastafari.vim
+rastafari https://github.com/vim-scripts/rastafari.vim
 relaxedgreen https://github.com/vim-scripts/Relaxed-Green
 rootwater https://github.com/vim-scripts/rootwater.vim
 satori https://github.com/vim-scripts/Satori-Color-Scheme

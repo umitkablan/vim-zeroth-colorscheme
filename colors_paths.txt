@@ -5,12 +5,10 @@ astronaut
 asu1dark http://www.vim.org/scripts/download_script.php?src_id=271
 autumn http://www.vim.org/scripts/download_script.php?src_id=2065
 autumnleaf http://www.vim.org/scripts/download_script.php?src_id=3553
-ayumi https://github.com/lorry-lee/vim-ayumi/raw/master/color/ayumi.vim
 bandit
 baycomb http://www.vim.org/scripts/download_script.php?src_id=5795
 bclear http://www.vim.org/scripts/download_script.php?src_id=14069
 bigbang https://github.com/megaannum/colorschemer/raw/master/data/colorschemer/distilled.cterm/dark/colors/bigbang.vim
-biogoo https://github.com/bdesham/biogoo/raw/master/biogoo.vim
 blackbeauty http://www.vim.org/scripts/download_script.php?src_id=2623
 blackboard http://www.vim.org/scripts/download_script.php?src_id=11225
 blacksea http://vim.sourceforge.net/scripts/download_script.php?src_id=7236
@@ -25,7 +23,6 @@ candycode http://www.vim.org/scripts/download_script.php?src_id=6066
 chela_light http://www.vim.org/scripts/download_script.php?src_id=6052
 chocolateliquor http://vim.sourceforge.net/scripts/download_script.php?src_id=7238
 cleanphp http://www.vim.org/scripts/download_script.php?src_id=2109
-codeblocks_dark https://github.com/sergey-vlasov/codeblocks-dark.vim/raw/master/codeblocks-dark.vim
 colorzone http://www.vim.org/scripts/download_script.php?src_id=17972
 darkBlue http://www.vim.org/scripts/download_script.php?src_id=17648
 darkburn http://www.vim.org/scripts/download_script.php?src_id=10756
@@ -35,7 +32,6 @@ darkZ
 dawn http://vim.sourceforge.net/scripts/download_script.php?src_id=4807
 desert256 http://www.vim.org/scripts/download_script.php?src_id=4055
 desert http://www.vim.org/scripts/download_script.php?src_id=2038
-distinguished https://github.com/Lokaltog/vim-distinguished/raw/develop/colors/distinguished.vim
 dusk http://www.vim.org/scripts/download_script.php?src_id=4806
 emacs http://www.vim.org/scripts/download_script.php?src_id=117
 festoon http://www.vim.org/scripts/download_script.php?src_id=18458
@@ -93,10 +89,6 @@ tango http://www.vim.org/scripts/download_script.php?src_id=11478
 tesla http://www.vim.org/scripts/download_script.php?src_id=18215
 tir_black http://www.vim.org/scripts/download_script.php?src_id=11430
 tolerable http://vim.sourceforge.net/scripts/download_script.php?src_id=3741
-Tomorrow https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow.vim
-Tomorrow-Night https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow-Night.vim
-Tomorrow-Night-Bright https://raw.githubusercontent.com/chriskempson/tomorrow-theme/master/vim/colors/Tomorrow-Night-Bright.vim
-Tomorrow-Night-Eighties https://github.com/chriskempson/tomorrow-theme/raw/master/vim/colors/Tomorrow-Night.vim
 torte http://www.vim.org/scripts/download_script.php?src_id=245
 toxic http://www.vim.org/scripts/download_script.php?src_id=16131
 twilight256 http://www.vim.org/scripts/download_script.php?src_id=14937

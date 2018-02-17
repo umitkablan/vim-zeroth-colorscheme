@@ -7,7 +7,9 @@ aqua https://github.com/vim-scripts/aqua
 astroboy https://github.com/vim-scripts/colorschemer
 autumn2 https://github.com/rodnaph/vim-color-schemes
 ayu https://github.com/ayu-theme/ayu-vim
+ayumi https://github.com/lorry-lee/vim-ayumi
 badwolf https://github.com/sjl/badwolf
+biogoo https://github.com/bdesham/biogoo
 borland https://github.com/vim-scripts/borland.vim
 breeze https://github.com/akitaonrails/vimfiles
 briofita https://github.com/vim-scripts/Briofita
@@ -30,6 +32,7 @@ dejavu https://github.com/vim-scripts/colorschemer
 denim https://github.com/vim-scripts/Denim
 desertEx https://github.com/vim-scripts/desertEx
 detailed https://github.com/rking/vim-detailed
+distinguished https://github.com/Lokaltog/vim-distinguished
 django https://github.com/flazz/vim-colorschemes
 dracula https://github.com/dracula/vim
 dw_blue https://github.com/rodnaph/vim-color-schemes
@@ -133,6 +136,10 @@ tabula https://github.com/vim-scripts/tabula.vim
 taqua https://github.com/flazz/vim-colorschemes
 tcsoft https://github.com/vim-scripts/tcsoft.vim
 tortex https://github.com/vim-scripts/tortex
+Tomorrow https://github.com/chriskempson/vim-tomorrow-theme
+Tomorrow-Night https://github.com/chriskempson/vim-tomorrow-theme
+Tomorrow-Night-Bright https://github.com/chriskempson/vim-tomorrow-theme
+Tomorrow-Night-Eighties https://github.com/chriskempson/vim-tomorrow-theme
 tropikos https://github.com/blackgate/tropikos-vim-theme
 ubloh https://github.com/vim-scripts/Ubloh-Color-Scheme
 vc https://github.com/flazz/vim-colorschemes

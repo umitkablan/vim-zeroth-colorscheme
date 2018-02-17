@@ -1,7 +1,7 @@
 
 let s:zcs_confpath = expand('<sfile>:p:h')
 
-function! zerothcs#Load_CS(csname)
+function! zerothcs#Load_CS(csname) abort
 	let [is_git, url] = zerothcs#Get_URL_Of_CS(a:csname)
 	if url ==# ''
 		echoerr 'ZerothColor ' . a:csname . ' could not be found. its URL is not defined!'
@@ -21,7 +21,7 @@ function! zerothcs#Load_CS(csname)
 	endif
 endfunction
 
-function! zerothcs#Get_URL_Of_CS(csname)
+function! zerothcs#Get_URL_Of_CS(csname) abort
 	let ret = s:getURL_Of_CS(a:csname, s:zcs_confpath . '/../colors_git.txt')
 	if len(ret)
 		return [1, ret]
@@ -30,13 +30,13 @@ function! zerothcs#Get_URL_Of_CS(csname)
 	return [0, ret]
 endfunction
 
-function! zerothcs#Get_AllColors_List()
+function! zerothcs#Get_AllColors_List() abort
 	let ret  = s:readForNames(s:zcs_confpath . '/../colors_paths.txt')
 	let ret += s:readForNames(s:zcs_confpath . '/../colors_git.txt')
 	return ret
 endfunction
 
-function! zerothcs#Complete_Colors(initials)
+function! zerothcs#Complete_Colors(initials) abort
 	let ret = []
 	for i in zerothcs#Get_AllColors_List()
 		if i =~# '^' . a:initials
@@ -69,7 +69,7 @@ function! s:loadCS_ViaWget(url, csname) abort
 	return ''
 endfunction
 
-function! s:clone_CS(csurl, dirpath)
+function! s:clone_CS(csurl, dirpath) abort
 	let slashi = strridx(a:csurl, '/')
 	if slashi < 0
 		return [0, 0, 1]

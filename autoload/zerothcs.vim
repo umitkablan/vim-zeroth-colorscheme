@@ -8,28 +8,17 @@ function! zerothcs#Load_CS(csname)
 		return
 	endif
 
-	let cspath = g:zerothcs_colors_path . '/colors/' . a:csname . '.vim'
-	if !is_git && filereadable(cspath)
-		exec 'colorscheme ' . a:csname
-		return
+	if is_git
+		let err = s:loadCS_ViaGit(url)
+	else
+		let err = s:loadCS_ViaWget(url, a:csname)
 	endif
 
-	if is_git
-		let [dirp, sherr, out] = s:clone_CS(url, g:zerothcs_colors_repodir)
-		if dirp ==# ''
-			echoerr 'ZerothCS: Could not clone repo: ' . url . ':' . sherr . ':' . out
-			return
-		endif
-		exec 'set rtp+=' . dirp
-		exec 'colorscheme ' . a:csname
+	if len(err)
+		echoerr 'ZerothCS: ' . err
 	else
-		call s:download_Wget(url, cspath)
-		if !filereadable(cspath)
-			echoerr 'Cannot download ' . url . '. FAIL.'
-			return
-		endif
+		exec 'colorscheme ' . a:csname
 	endif
-	exec 'colorscheme ' . a:csname
 endfunction
 
 function! zerothcs#Get_URL_Of_CS(csname)
@@ -57,9 +46,26 @@ function! zerothcs#Complete_Colors(initials)
 	return ret
 endfunction
 
-function! s:download_Wget(csurl, fpath)
-	let cline = 'wget -q --no-check-certificate ' . shellescape(a:csurl) . " -O " . shellescape(a:fpath)
-	call system(cline)
+function! s:loadCS_ViaGit(url) abort
+	let [dirp, sherr, out] = s:clone_CS(a:url, g:zerothcs_colors_repodir)
+	if dirp ==# ''
+		return 'Could not clone repo: ' . a:url . ':' . sherr . ':' . out
+	endif
+	exec 'set rtp+=' . dirp
+	return ''
+endfunction
+
+function! s:loadCS_ViaWget(url, csname) abort
+	let cspath = g:zerothcs_colors_path . '/colors/' . a:csname . '.vim'
+	if filereadable(cspath)
+		return ''
+	endif
+
+	let [out, err, sherr] = s:execSystem('wget -q --no-check-certificate ' . shellescape(a:url) . ' -O ' . shellescape(cspath))
+	if !filereadable(cspath)
+		return 'wget ' . a:url . ' err:' . err . ' sherr:' . sherr . ' - ' . out
+	endif
+	return ''
 endfunction
 
 function! s:clone_CS(csurl, dirpath)

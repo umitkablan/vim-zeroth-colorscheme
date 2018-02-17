@@ -62,7 +62,8 @@ function! s:loadCS_ViaWget(url, csname) abort
 	endif
 
 	let [out, err, sherr] = s:execSystem('wget -q --no-check-certificate ' . shellescape(a:url) . ' -O ' . shellescape(cspath))
-	if !filereadable(cspath)
+	if sherr
+		call delete(cspath)
 		return 'wget ' . a:url . ' err:' . err . ' sherr:' . sherr . ' - ' . out
 	endif
 	return ''

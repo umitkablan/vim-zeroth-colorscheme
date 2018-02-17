@@ -7,14 +7,13 @@ if !exists('g:zerothcs_colors_path')
     let g:zerothcs_colors_path = expand('$HOME') . '/.vim'
 else
     set rtp+=g:zerothcs_colors_path
-    call system('mkdir -p ' . g:zerothcs_colors_path.'/colors')
+    call system('mkdir -p ' . g:zerothcs_colors_path . '/colors')
 endif
 
 if !exists('g:zerothcs_colors_repodir')
     let g:zerothcs_colors_repodir = expand('$HOME') . '/.vim/zerothcs_colors'
 endif
-
-call system('mkdir -p ' . g:zerothcs_colors_repodir.'/colors')
+call system('mkdir -p ' . g:zerothcs_colors_repodir)
 
 command! -nargs=* -complete=customlist,s:Zcs_Complete_Params ZerothCS call zerothcs#Load_CS(<f-args>)
 

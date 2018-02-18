@@ -26,3 +26,10 @@ function! s:Zcs_Complete_Params(arg, line, pos)
     return []
 endfunction
 
+if !exists('g:zerothcs_autostart')
+    let g:zerothcs_autostart = 1
+endif
+
+if g:zerothcs_autostart
+    ZerothCS
+endif

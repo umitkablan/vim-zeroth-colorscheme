@@ -104,6 +104,9 @@ oceanblack https://github.com/chrisv/vim-chrisv
 oceandeep https://github.com/vim-scripts/oceandeep
 olive https://github.com/vim-scripts/Olive
 omen https://github.com/vim-scripts/mimicpak
+one https://github.com/rakr/vim-one
+one-dark https://github.com/rakr/vim-one
+onedark https://github.com/joshdick/onedark.vim
 papercolor https://github.com/NLKNguyen/papercolor-theme
 paradox https://github.com/vim-scripts/colorschemer
 peaksea https://github.com/vim-scripts/peaksea

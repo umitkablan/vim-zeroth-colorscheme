@@ -33,6 +33,8 @@ ZCS has many colorscheme definitions embedded - either as git repository or plai
 
 If your colorscheme is not pluggable then it is a plain `*.vim` file and it is downloaded default to `$HOME/.vim` directory. It could be changed via `g:zerothcs_colors_path` variable.
 
+`:ZerothCS` command also supports `<user>/<repo>` style arguments. Then it will load the repository from `g:zerothcs_default_git_repo/<user>/<repo>` - `g:zerothcs_default_git_repo` defaults to `https://github.com`. Note that after downloading and adding it to `rtp`, ZCS will promt for the actual scheme name - the name you pass to `:colorscheme` command. This name could not be known in advance.
+
 # How It Works
 
 When you load ZCS a configuration file is also loaded which will have colorscheme lines with accompanying data like where they are located at. ZCS will help you try out those skins fast.

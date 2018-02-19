@@ -27,8 +27,17 @@ function! zerothcs#Load_CS(csname) abort
     if len(err)
         echoerr 'ZerothCS: ' . err
     else
-        exec 'colorscheme ' . a:csname
-        call s:saveCS(a:csname, dirp)
+        let color_name = a:csname
+        let slashi = strridx(a:csname, '/')
+        if slashi > 0
+            let color_name = input('colorscheme name: ', a:csname[slashi+1:])
+        endif
+        try
+            exec 'colorscheme ' . color_name
+            call s:saveCS(color_name, dirp)
+        catch /.*/
+            echoerr v:exception
+        endtry
     endif
 endfunction
 
@@ -38,7 +47,14 @@ function! zerothcs#Get_URL_Of_CS(csname) abort
         return [1, ret]
     endif
     let ret = s:getURL_Of_CS(a:csname, s:zcs_confpath . '/../colors_paths.txt')
-    return [0, ret]
+    if len(ret)
+        return [0, ret]
+    endif
+    let ll = split(a:csname, '/')
+    if len(ll) != 2
+        return []
+    endif
+    return [1, g:zerothcs_default_git_repo . '/' . ll[0] . '/' . ll[1]]
 endfunction
 
 function! zerothcs#Get_AllColors_List() abort
@@ -92,14 +108,15 @@ function! s:loadCS_ViaWget(url, csname) abort
 endfunction
 
 function! s:clone_CS(csurl, dirpath) abort
-    let slashi = strridx(a:csurl, '/')
+    let slashi = stridx(a:csurl, '://')
     if slashi < 0
         return [0, 0, 1]
     endif
-    let dirp = a:dirpath . '/' . a:csurl[slashi+1:]
+    let dirp = a:dirpath . '/' . a:csurl[slashi+3:]
     if isdirectory(dirp)
         return [dirp, 0, '']
     endif
+    call system('mkdir -p ' . dirp)
     let cline = 'git clone ' . shellescape(a:csurl) . ' ' . dirp
     let [out, err, sherr] = s:execSystem(cline)
     return [sherr == 0 ? dirp : '', sherr, sherr == 0 ? out : err]

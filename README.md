@@ -39,3 +39,5 @@ If your colorscheme is not pluggable then it is a plain `*.vim` file and it is d
 
 When you load ZCS a configuration file is also loaded which will have colorscheme lines with accompanying data like where they are located at. ZCS will help you try out those skins fast.
 
+Colorschemes could be either git repos or plain web resources: While `colors_git.txt` will hold git repo schemes (where it should contain `colors/` directory), `colors_paths.txt` will aggregate plain web resources (those will be downloaded into `colors/` plainly).
+

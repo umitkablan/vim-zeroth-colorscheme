@@ -1,1 +1,76 @@
+ZerothCS -- Easy and accessible colorscheme loader
 
+AUTHOR:  Ümit Kablan <umitkablan@gmail.com>                  *zerothcs-author*
+WEBSITE:  http://www.github.com/umitkablan/vim-zeroth-colorscheme
+LICENSE:  See LICENSE file
+
+zerothcs                                                           *zerothcs*
+
+1. Introduction              |zerothcs-introduction|
+2. Installation              |zerothcs-installation|
+3. Usage                     |zerothcs-usage|
+4. Commands                  |zerothcs-commands|
+5. Configuration Options     |zerothcs-config-options|
+
+=============================================================================
+1. Introduction                                       *zerothcs-introduction*
+
+ZCS is a colorscheme loader that will let you access many easily. Even if the
+colorscheme is not defined inside it will still help you loading and
+remembering last scheme you decided on. No need to separately install and
+':colorscheme', just pass it to :ZerothCS and it will load and apply as well
+as remembering it next time you start Vim.
+
+=============================================================================
+2. Installation                                       *zerothcs-installation*
+
+Install in ~/.vim/plugin, or in ~\vimfiles\plugin if you're on Windows. This
+plugin should be fully pathogen/plug compatible if you want to install this
+way and it's highly recommended so.
+
+=============================================================================
+3. Usage                                                     *zerothcs-usage*
+
+':ZerothCS' is the only command exposed. It will tab-complete the defined
+colorschemes inside. If you want to try out a git repo you pass
+'<user>/<reponame>' as argument. Any successful colorscheme load will be
+reloaded next time Vim starts.
+
+=============================================================================
+4. Commands                                               *zerothcs-commands*
+
+4.1 :ZerothCS [colorscheme]
+
+This command will load 'colorscheme' passed. Argument will be tab-completed
+if defined inside. The 'colorscheme' name is persisted to be recommended at
+next startup.
+
+=============================================================================
+5. Configuration Options                            *zerothcs-config-options*
+
+You can set the following options in your .vimrc to override the values used
+by |ZCS|. The defaults are shown.
+
+5.1 g:zerothcs_autostart                               *g:zerothcs_autostart*
+
+Load last scheme at startup.
+Default: 1
+
+5.2 g:zerothcs_colors_path                           *g:zerothcs_colors_path*
+
+The path to load plain '*.vim' colorscheme files.
+Default: $HOME/.vim
+
+5.3 g:zerothcs_colors_repodir                     *g:zerothcs_colors_repodir*
+
+The path to load repo'ed colorschemes. Colors will be downloaded to a
+hostname based hierarchy.
+Default: $HOME/.vim/zerothcs_colors
+
+5.4 g:zerothcs_default_git_repo                 *g:zerothcs_default_git_repo*
+
+Default host to seek repo names that are not defined. Those names are passed
+as '<user>/<reponame>' and located here.
+Default: https://github.com
+
+vim:tw=78:ts=8:ft=help:norl:

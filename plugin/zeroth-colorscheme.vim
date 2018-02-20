@@ -15,7 +15,7 @@ if !exists('g:zerothcs_colors_repodir')
 endif
 call system('mkdir -p ' . g:zerothcs_colors_repodir)
 
-if !exists('g:zerothcs_default_git_repo ')
+if !exists('g:zerothcs_default_git_repo')
     let g:zerothcs_default_git_repo = 'https://github.com'
 endif
 
